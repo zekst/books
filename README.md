@@ -8,7 +8,12 @@
  - In Memoriam, Maud (Alfred Lord Tennyson)
  - Meditation (Marcus Aurelius)
  - Stories of Premchand (Premchand)
- - Beyond Good and Evil (Fredich Nietszche)
+ - Beyond Good and Evil (Friedich Nietzsche)
+ - Zero to one (Peter Thiel)
+ - Astavakra Gita (Rajneesh Osho)
+ - Shrimad Bhagwad Gita (Some publihser)
+ - The Richest man in the babylon
+ - Letters from Seneca (Lucius Annaeus Seneca)
 
 
    and some more which i forgot
